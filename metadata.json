@@ -1,0 +1,16 @@
+{
+  "name": "Jef Dev Token",
+  "symbol": "JEFF",
+  "description": "Jef Dev Token — a development token on Solana devnet.",
+  "image": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "",
+        "type": "image/png"
+      }
+    ],
+    "category": "fungible"
+  }
+}
