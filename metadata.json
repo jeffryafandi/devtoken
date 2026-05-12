@@ -1,13 +1,13 @@
 {
-  "name": "Jef Dev Token",
+  "name": "Jeff Dev Token",
   "symbol": "JEFF",
   "description": "Jef Dev Token — a development token on Solana devnet.",
-  "image": "",
+  "image": "https://raw.githubusercontent.com/jeffryafandi/devtoken/9b619f7cbc4512918a1ea5ac39dc4b60b800b0e5/60407799cc0f631069bfa5dbb5cf2e8f.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "",
+        "uri": "https://raw.githubusercontent.com/jeffryafandi/devtoken/9b619f7cbc4512918a1ea5ac39dc4b60b800b0e5/60407799cc0f631069bfa5dbb5cf2e8f.png",
         "type": "image/png"
       }
     ],
